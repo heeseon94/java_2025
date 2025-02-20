@@ -1,4 +1,4 @@
-package com.company003;
+package com.company.java003;
 import java.util.Scanner;
 
 public class Operator001 {

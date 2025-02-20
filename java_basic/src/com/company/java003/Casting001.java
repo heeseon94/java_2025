@@ -1,4 +1,4 @@
-package com.company003;
+package com.company.java003;
 
 public class Casting001 {
 	public static void main (String [] args) {

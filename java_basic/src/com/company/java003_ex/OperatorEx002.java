@@ -6,9 +6,8 @@ public class OperatorEx002 {
 	public static void main (String [] args) {
 		int x = 5;
 		System.out.println("q1 : " + ( x>3 && x<10 ));
-//		Scanner scanner = new Scanner(System.in);
 		
-		char ch = '\u0000';
+		char ch = ' ';
 		ch = 'a';
 		System.out.println("q2 : " + (ch=='a' || ch=='A') );
 		System.out.println("q3 : " + (ch >= '0' && ch <= '9') );
