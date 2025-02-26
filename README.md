@@ -1,3 +1,6 @@
+#### 7. 2025-02-25
+1. 이중for문
+
 #### 6. 2025-02-24
 1. for, while, do while
 2. html,css,js
